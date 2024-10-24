@@ -1,3 +1,7 @@
+# Explique como un contenedor puede integrar un entorno de desarrollo utilizando 
+# un web server y una base de datos dentro de un mismo contenedor.
+# ¿Como lograr este objetivo?
+# De manera teorica debemos de crear un contenedor de ubuntu que albergue el servidor web y el SQL
 # En este Dockerfile albergaremos una imagen de ubuntu, concretamente la 
 # version 20.04 la cual es la version reciente y estable. En base a esta imagen
 # crearemos un contenedor de ubuntu
